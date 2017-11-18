@@ -43,6 +43,6 @@ var Countdown = React.createClass({
 
         )
     }
-})
+});
 
 module.exports = Countdown;
